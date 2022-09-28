@@ -1,0 +1,120 @@
+body{
+    margin: 0px;
+}
+
+#topo{
+    width: 100%;
+    height: 30px;
+    background-color: #73B9FF;
+    float: left;
+    position: fixed;
+}
+
+.largura-site{
+    width: 900px;
+    margin: auto; /*Centraliza na página*/
+}
+
+#logo{
+    width: 140px;
+    height: 24px;
+    float: left;
+}
+
+#menu{
+    width: auto;
+    height: auto;
+    float: right;
+    margin-top: 7px;
+}
+
+#menu a{
+   color: #fff;
+   font-size: 16px;
+   text-decoration: none;
+   margin-left: 50px;
+}
+
+#menu a:hover{
+   text-transform: uppercase;
+ }
+
+ .imghome{
+    float: left;
+    margin-top: 55px;
+ }
+
+  .imghome{
+    float: left;
+    margin-top: 55px;
+ }
+
+ .imgdireita{
+   float: right;
+   margin-left: 15px;
+ }
+
+
+ #conteudohome{
+    width: 545px;
+    float: right;
+    height: auto;
+    margin-top: 100px;
+ }
+
+ .conteudo{
+    width: 100%;
+    height: auto;
+    float: left;
+    border-bottom: 1px solid #73B9FF;
+ }
+
+ #rodape{
+    width: 100%;
+    height: 25px;
+    float: left;
+    font-size: 14px;
+    background-color: #73B9FF;
+    text-align: justify;
+    color:#fff;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+
+
+ h1{
+    color: #666;
+    font-size: 30px; 
+ }
+
+ li{
+   margin-bottom: 15px;
+ }
+
+ ul{
+    color: #888;
+    font-size: 15px;
+    text-align: justify;
+    list-style-type: square;
+    list-style-position: inside;
+ }
+
+ input[type=text]{
+    width: 300px;
+    height: 25px;
+    background-color: #EEE;
+    border: solid 1px #73B9FF;
+ }
+
+ textarea{
+    width: 400px;
+    height: 140px;
+    background-color: #EEE;
+    border: solid 1px #73B9FF;
+    resize: none; 
+ }
+
+ form{
+    color: #888;
+
+ }
